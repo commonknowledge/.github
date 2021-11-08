@@ -1,6 +1,6 @@
 # Overview
 
-This repository exists to share Github templates and configuration with other
+This repository exists to share GitHub templates and configuration with other
 repositories within the the [`Common Knowledge`](https://github.com/commonknowledge)
 organization.
 
