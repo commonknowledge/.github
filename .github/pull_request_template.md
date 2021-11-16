@@ -7,9 +7,9 @@
 <!--- Why is this change required? What problem does it solve? -->
 <!--- If it fixes an open issue, please link to the issue here. -->
 
-## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
+## How Can It Be Tested?
+<!--- Please describe in detail how you tested your changes so that a reviewer can reproduce the results. -->
+<!--- Include details of your testing environment, and the tests you've run your self -->
 <!--- see how your change affects other areas of the code, etc. -->
 
 ## How Will This Be Deployed?
@@ -27,6 +27,8 @@
 ## Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
+- [ ] The changes we made match the spec, for example the Figma file.
+- [ ] My code follows the code style of this project.
 - [ ] My code follows the code style of this project.
 - [ ] My change requires a change to the documentation.
 - [ ] I have updated the documentation accordingly.
