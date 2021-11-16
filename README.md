@@ -8,4 +8,4 @@ organization.
 be able to leverage the templates that it provides.
 
 The approach was taken from
-[this help page](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) via [https://chromatichq.com/insights/sharing-github-issue-pull-request-templates](Chromatic HQ).
+[this help page](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) via [Chromatic HQ](https://chromatichq.com/insights/sharing-github-issue-pull-request-templates).
